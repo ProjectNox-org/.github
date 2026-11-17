@@ -1,53 +1,124 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/nox-banner.png" alt="Project Nox — site, scan, Mihon, Aniyomi e repositórios" width="100%">
-</p>
-
-<h1 align="center">Project Nox</h1>
-
-<p align="center">
-  Um ecossistema de mangás, animes e ferramentas para a comunidade.
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/nox-hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/nox-hero-light.svg">
+    <img alt="Project Nox — Ecossistema independente de software, tecnologia e código aberto" src="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/nox-hero-dark.svg" width="100%">
+  </picture>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ProjectNox-org/project-nox-manga"><strong>Plataforma de mangá</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/ProjectNox-org/project-nox-requests"><strong>Central de solicitações</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://projectnox-org.github.io/project-nox-tracker/"><strong>Acompanhar extensões</strong></a>
+  <a href="https://projectnox-org.github.io/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/btn-central-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/btn-central-light.svg">
+      <img alt="Explorar Central Oficial" src="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/btn-central-dark.svg" height="40">
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://github.com/ProjectNox-org">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/btn-org-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/btn-org-light.svg">
+      <img alt="Repositórios GitHub" src="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/btn-org-dark.svg" height="40">
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://github.com/ProjectNox-org/project-nox-requests">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/btn-requests-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/btn-requests-light.svg">
+      <img alt="Central de Solicitações" src="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/btn-requests-dark.svg" height="40">
+    </picture>
+  </a>
 </p>
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/nox-divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/nox-divider-light.svg">
+    <img alt="" src="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/nox-divider-dark.svg" width="100%">
+  </picture>
+</p>
 
-## Nosso ecossistema
+## Sobre o Project Nox
 
-O Project Nox reúne uma plataforma de leitura, extensões para aplicativos de mangá e anime, automações de catálogo e ferramentas para organizar as solicitações da comunidade.
-
-### Mangá
-
-- [**Plataforma Project Nox Manga**](https://github.com/ProjectNox-org/project-nox-manga) — plataforma web e leitor de mangás.
-- [**Extensões para Mihon e forks**](https://github.com/ProjectNox-org/manga-extensoes) — catálogo oficial e distribuição (`index.pb`).
-- [**Código-fonte das extensões**](https://github.com/ProjectNox-org/manga-fonte-extensoes) — fontes em Kotlin e pipeline de compilação.
-- [**Importer de Catálogo**](https://github.com/ProjectNox-org/project-nox-importer) — serviço autônomo de ingestão, validação e storage.
-
-### Anime
-
-- [**Extensões para Aniyomi e forks**](https://github.com/ProjectNox-org/anime-extensoes) — catálogo oficial e distribuição (`index.pb`).
-- [**Código-fonte das extensões**](https://github.com/ProjectNox-org/anime-fonte-extensoes) — fontes em Kotlin, extractors e pipeline de compilação.
-
-### Comunidade e ferramentas
-
-- [**Central de solicitações**](https://github.com/ProjectNox-org/project-nox-requests) — pedidos de extensões e relatos de problemas.
-- [**Tracker**](https://projectnox-org.github.io/project-nox-tracker/) ([repositório](https://github.com/ProjectNox-org/project-nox-tracker)) — acompanhamento em tempo real de status e pedidos.
-- [**Central Staff**](https://github.com/ProjectNox-org/project-nox-scan-staff) — painel editorial e fluxo de trabalho da equipe de scan.
-- [**Nox Extension Developer**](https://github.com/ProjectNox-org/nox-extension-developer) — skill para desenvolvimento de extensões de mangá, anime e novel.
-
-## Como contribuir
-
-Encontrou um problema ou tem uma sugestão? Consulte a [Central de solicitações](https://github.com/ProjectNox-org/project-nox-requests) e as orientações de cada repositório antes de abrir uma issue ou enviar uma contribuição.
-
----
+O **Project Nox** é uma iniciativa independente de tecnologia e código aberto dedicada à criação de software, plataformas digitais, ferramentas e automações. Desenvolvemos soluções pensadas para uso real, com foco em clareza, autonomia e evolução contínua junto à comunidade.
 
 <p align="center">
-  Fundado por <a href="https://github.com/Awerkori"><strong>Awerkori</strong></a><br>
-  Fundador e proprietário oficial do Project Nox
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/pillar-platforms-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/pillar-platforms-light.svg">
+    <img alt="Plataformas Digitais" src="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/pillar-platforms-dark.svg" width="260">
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/pillar-tools-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/pillar-tools-light.svg">
+    <img alt="Ferramentas e Automação" src="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/pillar-tools-dark.svg" width="260">
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/pillar-opensource-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/pillar-opensource-light.svg">
+    <img alt="Código Aberto" src="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/pillar-opensource-dark.svg" width="260">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/nox-divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/nox-divider-light.svg">
+    <img alt="" src="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/nox-divider-dark.svg" width="100%">
+  </picture>
+</p>
+
+## Explorar e Participar
+
+A descoberta completa dos projetos, documentações e canais de acompanhamento acontece diretamente nos portais oficiais do ecossistema:
+
+<p align="center">
+  <a href="https://projectnox-org.github.io/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/card-central-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/card-central-light.svg">
+      <img alt="Central Oficial — Portal principal do ecossistema" src="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/card-central-dark.svg" width="385">
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://github.com/ProjectNox-org">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/card-github-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/card-github-light.svg">
+      <img alt="Organização no GitHub — Repositórios e lançamentos" src="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/card-github-dark.svg" width="385">
+    </picture>
+  </a>
+  <br>
+  <a href="https://github.com/ProjectNox-org/project-nox-requests">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/card-requests-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/card-requests-light.svg">
+      <img alt="Central de Solicitações — Sugestões, melhorias e relatos" src="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/card-requests-dark.svg" width="385">
+    </picture>
+  </a>
+  &nbsp;
+  <a href="https://projectnox-org.github.io/project-nox-tracker/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/card-tracker-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/card-tracker-light.svg">
+      <img alt="Tracker de Status — Acompanhamento em tempo real" src="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/card-tracker-dark.svg" width="385">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/nox-divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/nox-divider-light.svg">
+    <img alt="" src="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/nox-divider-dark.svg" width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  <strong>Project Nox</strong> &nbsp;·&nbsp; Fundado por <a href="https://github.com/Awerkori"><strong>Awerkori</strong></a><br>
+  <sub>Iniciativa independente de software, tecnologia e código aberto.</sub>
 </p>

@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Project Nox — Ecossistema independente de software, tecnologia e código aberto">
+  <defs>
+    <linearGradient id="heroBg-light" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F8FAFC" />
+      <stop offset="100%" stop-color="#F1F5F9" />
+    </linearGradient>
+    <radialGradient id="purpleGlow-light" cx="22%" cy="50%" r="42%">
+      <stop offset="0%" stop-color="#5B21B6" stop-opacity="0.10" />
+      <stop offset="100%" stop-color="#5B21B6" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="goldGlow-light" cx="82%" cy="22%" r="36%">
+      <stop offset="0%" stop-color="#A17419" stop-opacity="0.10" />
+      <stop offset="100%" stop-color="#A17419" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="goldGrad-light" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#C6932B" />
+      <stop offset="50%" stop-color="#A17419" />
+      <stop offset="100%" stop-color="#78550E" />
+    </linearGradient>
+    <linearGradient id="purpleGrad-light" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#6D28D9" />
+      <stop offset="100%" stop-color="#5B21B6" />
+    </linearGradient>
+    <linearGradient id="lineGrad-light" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A17419" />
+      <stop offset="55%" stop-color="#6D28D9" />
+      <stop offset="100%" stop-color="#6D28D9" stop-opacity="0" />
+    </linearGradient>
+    <pattern id="grid-light" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#E2E8F0" stroke-width="1" opacity="0.55" />
+    </pattern>
+  </defs>
+
+  <!-- Container -->
+  <rect x="1" y="1" width="1198" height="318" rx="18" fill="url(#heroBg-light)" stroke="#E2E8F0" stroke-width="1.5" />
+  <rect x="1" y="1" width="1198" height="318" rx="18" fill="url(#grid-light)" />
+  <rect x="1" y="1" width="1198" height="318" rx="18" fill="url(#purpleGlow-light)" />
+  <rect x="1" y="1" width="1198" height="318" rx="18" fill="url(#goldGlow-light)" />
+
+  <!-- Subtle architectural corner accents -->
+  <path d="M 28 44 L 28 28 L 44 28" fill="none" stroke="#A17419" stroke-width="1.5" opacity="0.6" />
+  <path d="M 1172 276 L 1172 292 L 1156 292" fill="none" stroke="#6D28D9" stroke-width="1.5" opacity="0.6" />
+
+  <!-- Project Nox Vector Emblem (Left) -->
+  <g transform="translate(215, 160)">
+    <!-- Outer celestial ring -->
+    <circle cx="0" cy="0" r="82" fill="none" stroke="url(#goldGrad-light)" stroke-width="1.5" opacity="0.55" />
+    <circle cx="0" cy="0" r="68" fill="none" stroke="#6D28D9" stroke-width="1" opacity="0.25" stroke-dasharray="4 6" />
+
+    <!-- Cardinal 4-point stars -->
+    <path d="M 0 -92 L 3 -84 L 11 -81 L 3 -78 L 0 -70 L -3 -78 L -11 -81 L -3 -84 Z" fill="url(#goldGrad-light)" />
+    <path d="M -82 -8 L -80 -2 L -74 0 L -80 2 L -82 8 L -84 2 L -90 0 L -84 -2 Z" fill="url(#goldGrad-light)" />
+    <path d="M 82 -8 L 84 -2 L 90 0 L 84 2 L 82 8 L 80 2 L 74 0 L 80 -2 Z" fill="url(#goldGrad-light)" />
+
+    <!-- Omega-inspired golden arc -->
+    <path d="M -44 48 L -24 48 L -24 34 A 42 42 0 1 1 24 34 L 24 48 L 44 48"
+          fill="none" stroke="url(#goldGrad-light)" stroke-width="10" stroke-linecap="square" stroke-linejoin="miter" />
+
+    <!-- Purple crystalline chevron -->
+    <path d="M 0 -36 L 34 46 L 18 46 L 0 2 L -18 46 L -34 46 Z" fill="url(#purpleGrad-light)" />
+    <path d="M 0 -36 L 34 46 L 18 46 L 0 2 Z" fill="#FFFFFF" opacity="0.14" />
+  </g>
+
+  <!-- Institutional Typography (Right) -->
+  <g transform="translate(360, 0)">
+    <text x="0" y="102" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3.2" fill="#A17419">
+      INICIATIVA INDEPENDENTE · CÓDIGO ABERTO
+    </text>
+
+    <text x="0" y="164" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="56" font-weight="800" letter-spacing="2.5">
+      <tspan fill="#0F172A">PROJECT </tspan><tspan fill="#6D28D9">NOX</tspan>
+    </text>
+
+    <rect x="0" y="186" width="520" height="2" rx="1" fill="url(#lineGrad-light)" />
+
+    <text x="0" y="224" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#334155">
+      Ecossistema de software, plataformas digitais e ferramentas
+    </text>
+    <text x="0" y="252" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#475569">
+      construídas com foco em clareza, autonomia e longevidade.
+    </text>
+  </g>
+</svg>
