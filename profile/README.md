@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://manga.project-nox-awerkori.workers.dev"><strong>Plataforma de mangá</strong></a>
+  <a href="https://github.com/Awerkori/project-nox-manga"><strong>Plataforma de mangá</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/Awerkori/project-nox-requests"><strong>Central de solicitações</strong></a>
   &nbsp;·&nbsp;
