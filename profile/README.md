@@ -30,7 +30,7 @@ O Project Nox reúne uma plataforma de leitura, extensões para aplicativos de m
 
 ### Anime
 
-- [**Extensões para Aniyomi e forks**](https://github.com/Awerkori/anime-extensoes) — catálogo e distribuição.
+- [**Extensões para Aniyomi e forks**](https://github.com/ProjectNox-org/anime-extensoes) — catálogo e distribuição.
 - [**Código-fonte das extensões**](https://github.com/Awerkori/anime-fonte-extensoes) — fontes, extractors e pipeline de compilação.
 
 ### Comunidade e ferramentas
