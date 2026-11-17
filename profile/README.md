@@ -1,5 +1,7 @@
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 767px)" srcset="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/nox-hero-mobile-dark.svg">
+    <source media="(prefers-color-scheme: light) and (max-width: 767px)" srcset="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/nox-hero-mobile-light.svg">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/nox-hero-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/nox-hero-light.svg">
     <img alt="Project Nox — Iniciativa independente de tecnologia e código aberto" src="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/nox-hero-dark.svg" width="100%">
@@ -18,6 +20,8 @@ Mais do que atuar em uma área específica, o ecossistema permanece aberto a nov
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 767px)" srcset="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/nox-philosophy-mobile-dark.svg">
+    <source media="(prefers-color-scheme: light) and (max-width: 767px)" srcset="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/nox-philosophy-mobile-light.svg">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/nox-philosophy-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/nox-philosophy-light.svg">
     <img alt="Construir, Compartilhar, Evoluir" src="https://raw.githubusercontent.com/ProjectNox-org/.github/main/assets/nox-philosophy-dark.svg" width="100%">

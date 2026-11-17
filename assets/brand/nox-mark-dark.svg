@@ -1,4 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="Emblema oficial do Project Nox">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="markTitle-dark markDesc-dark">
+  <title id="markTitle-dark">Project Nox — Símbolo Oficial</title>
+  <desc id="markDesc-dark">Emblema oficial do Project Nox em roxo e dourado.</desc>
   <defs>
     <radialGradient id="markNebula-dark" cx="50%" cy="50%" r="50%">
       <stop offset="0%" stop-color="#9333ea" stop-opacity="0.45"/>
