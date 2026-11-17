@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/Awerkori/project-nox-manga"><strong>Plataforma de mangá</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/Awerkori/project-nox-requests"><strong>Central de solicitações</strong></a>
+  <a href="https://github.com/ProjectNox-org/project-nox-requests"><strong>Central de solicitações</strong></a>
   &nbsp;·&nbsp;
   <a href="https://awerkori.github.io/project-nox-tracker/"><strong>Acompanhar extensões</strong></a>
 </p>
@@ -35,7 +35,7 @@ O Project Nox reúne uma plataforma de leitura, extensões para aplicativos de m
 
 ### Comunidade e ferramentas
 
-- [**Central de solicitações**](https://github.com/Awerkori/project-nox-requests) — pedidos de extensões e relatos de problemas.
+- [**Central de solicitações**](https://github.com/ProjectNox-org/project-nox-requests) — pedidos de extensões e relatos de problemas.
 - [**Tracker**](https://github.com/Awerkori/project-nox-tracker) — acompanhamento de status e pedidos.
 - [**Nox Extension Developer**](https://github.com/ProjectNox-org/nox-extension-developer) — skill para desenvolvimento de extensões de mangá, anime e novel.
 
@@ -43,7 +43,7 @@ O Project Nox reúne uma plataforma de leitura, extensões para aplicativos de m
 
 ## Como contribuir
 
-Encontrou um problema ou tem uma sugestão? Consulte a [Central de solicitações](https://github.com/Awerkori/project-nox-requests) e as orientações de cada repositório antes de abrir uma issue ou enviar uma contribuição.
+Encontrou um problema ou tem uma sugestão? Consulte a [Central de solicitações](https://github.com/ProjectNox-org/project-nox-requests) e as orientações de cada repositório antes de abrir uma issue ou enviar uma contribuição.
 
 ---
 
