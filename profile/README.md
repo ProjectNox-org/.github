@@ -6,11 +6,13 @@
   </picture>
 </p>
 
-<br>
+## Sobre o Project Nox
 
-O **Project Nox** é uma iniciativa independente dedicada ao desenvolvimento de software, tecnologia e soluções digitais em código aberto.
+O **Project Nox** é uma iniciativa independente de tecnologia e desenvolvimento de software, dedicada à criação de projetos autorais, ferramentas e soluções digitais em código aberto.
 
-Construímos projetos pensados para uso real, com foco em clareza, autonomia e evolução contínua — abertos à colaboração da comunidade e livres para expandir para novas ideias, plataformas e áreas ao longo do tempo.
+Sua trajetória começou com extensões e utilitários voltados aos ecossistemas de mangás e animes. Com o tempo, esse trabalho evoluiu naturalmente para plataformas web, sistemas próprios, automações, ferramentas de desenvolvimento e iniciativas envolvendo **agentes de inteligência artificial**.
+
+Mais do que atuar em uma área específica, o ecossistema permanece aberto a novas ideias, desafios e possibilidades. Seu desenvolvimento é guiado pela experimentação, pela utilidade prática e pela evolução contínua junto à comunidade — incorporando novos projetos sem precisar redefinir sua identidade a cada expansão.
 
 <br>
 
@@ -24,11 +26,9 @@ Construímos projetos pensados para uso real, com foco em clareza, autonomia e e
 
 <br>
 
-<p align="center">
-  Explore os projetos diretamente nos repositórios desta organização ou acesse a <a href="https://projectnox-org.github.io/"><strong>Central Oficial do Project Nox</strong></a> para documentação, novidades e canais da comunidade.
-</p>
+Para descobrir os projetos, consultar documentações e acompanhar os recursos do ecossistema, acesse a [**Central Oficial do Project Nox**](https://projectnox-org.github.io/).
 
-<br>
+---
 
 <p align="center">
   <sub><strong>Project Nox</strong> · Fundado por <a href="https://github.com/Awerkori">Awerkori</a></sub>

@@ -13,23 +13,23 @@
 
   <!-- Column 1: Construir -->
   <g transform="translate(140, 0)" text-anchor="middle">
-    <text x="0" y="38" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="1.2" fill="#F8FAFC">CONSTRUIR</text>
-    <text x="0" y="62" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#94A3B8">Software sólido para uso real</text>
+    <text x="0" y="37" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" letter-spacing="1.4" fill="#F8FAFC">CONSTRUIR</text>
+    <text x="0" y="63" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#CBD5E1">Software sólido para uso real</text>
   </g>
 
   <circle cx="280" cy="48" r="2.2" fill="#D4AF37" opacity="0.75" />
 
   <!-- Column 2: Compartilhar -->
   <g transform="translate(420, 0)" text-anchor="middle">
-    <text x="0" y="38" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="1.2" fill="#B59AF5">COMPARTILHAR</text>
-    <text x="0" y="62" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#94A3B8">Código aberto e transparente</text>
+    <text x="0" y="37" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" letter-spacing="1.4" fill="#B59AF5">COMPARTILHAR</text>
+    <text x="0" y="63" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#CBD5E1">Código aberto e transparente</text>
   </g>
 
   <circle cx="560" cy="48" r="2.2" fill="#D4AF37" opacity="0.75" />
 
   <!-- Column 3: Evoluir -->
   <g transform="translate(700, 0)" text-anchor="middle">
-    <text x="0" y="38" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="1.2" fill="#F8FAFC">EVOLUIR</text>
-    <text x="0" y="62" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#94A3B8">Melhoria contínua com a comunidade</text>
+    <text x="0" y="37" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" letter-spacing="1.4" fill="#F8FAFC">EVOLUIR</text>
+    <text x="0" y="63" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#CBD5E1">Melhoria contínua com a comunidade</text>
   </g>
 </svg>
