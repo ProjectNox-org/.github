@@ -37,7 +37,7 @@ O Project Nox reúne uma plataforma de leitura, extensões para aplicativos de m
 
 - [**Central de solicitações**](https://github.com/Awerkori/project-nox-requests) — pedidos de extensões e relatos de problemas.
 - [**Tracker**](https://github.com/Awerkori/project-nox-tracker) — acompanhamento de status e pedidos.
-- [**Nox Extension Developer**](https://github.com/Awerkori/nox-extension-developer) — skill para desenvolvimento de extensões de mangá, anime e novel.
+- [**Nox Extension Developer**](https://github.com/ProjectNox-org/nox-extension-developer) — skill para desenvolvimento de extensões de mangá, anime e novel.
 
 > Os projetos continuam nos repositórios atuais enquanto esta organização é preparada para seu crescimento.
 
