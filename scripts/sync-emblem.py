@@ -22,7 +22,7 @@ from pathlib import Path
 from PIL import Image, ImageDraw
 
 SOURCE_URL = "https://raw.githubusercontent.com/Awerkori/Awerkori/main/assets/profile/hero.svg"
-EXPECTED_SHA256 = "afa76b5f507bbcf4e2978717badf1863280dc08a38479030ebf9b1671d733555"
+EXPECTED_SHA256 = "e09e25ac53ef58a5820deaee7df890990f153f94f3730ff20ec901791831ed7d"
 EXPECTED_SIZE = (280, 280)
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
